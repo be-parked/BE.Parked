@@ -1,0 +1,23 @@
+.panel-login input:focus {
+	outline:none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	border-color: #ccc;
+}
+.navbar {
+    background-color: #417630
+}
+.panel-login {
+    padding: 30px;
+    border-color: black;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+span{
+    
+}
+list {
+    border: 0px; 
+    background-color:#98cbfb;
+}
